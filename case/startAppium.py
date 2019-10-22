@@ -19,6 +19,7 @@ def getDriver():
     driver = webdriver.Remote("http://127.0.0.1:4723/wd/hub", capabilities)
     return driver
     print('上传1018分支')
+    print('修改1018分支')
 
 driver = getDriver()
 
