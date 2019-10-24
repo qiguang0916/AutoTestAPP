@@ -18,8 +18,7 @@ def getDriver():
     }
     driver = webdriver.Remote("http://127.0.0.1:4723/wd/hub", capabilities)
     return driver
-    print('这是predev分支，代码最新')
-    print('这是1018分支')
+    print('测试回退A')
 
 driver = getDriver()
 
