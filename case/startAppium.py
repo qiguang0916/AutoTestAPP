@@ -27,7 +27,6 @@ def getDriver():
     print('提交version 5')
     print('提交version 6')
 
-    print('测试revert')
 driver = getDriver()
 
 
