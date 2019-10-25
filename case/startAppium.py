@@ -24,9 +24,9 @@ def getDriver():
 
     print('提交version 1')
     print('提交version 2')
-    print('提交version 3')
     print('提交version 5')
     print('提交version 6')
+
 driver = getDriver()
 
 
