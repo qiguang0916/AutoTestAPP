@@ -23,6 +23,7 @@ def getDriver():
     print('commit 3')
 
     print('提交version 1')
+    print('提交version 2')
 
 driver = getDriver()
 
