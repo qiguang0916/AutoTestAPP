@@ -14,12 +14,13 @@ def getDriver():
         # "deviceName": "8BN0217A11000281",
         # "platfromVersion": "9.0",
         # "app": "E:\\apptestproject\\skymarketing-client-test-0813.apk"
-
     }
     driver = webdriver.Remote("http://127.0.0.1:4723/wd/hub", capabilities)
     return driver
     # print('这是1018分支')
     print('commit 1')
+    print('commit 2')
+    print('commit 3')
 
 driver = getDriver()
 
